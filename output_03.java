@@ -20,3 +20,4 @@ public class output_03 {
         System.out.println(obj1.num1);
     }
 }
+
