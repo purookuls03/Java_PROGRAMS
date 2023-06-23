@@ -1,0 +1,37 @@
+Java lab notes :
+
+what is overloading
+	-> 	
+
+
+
+	
+what is overwritting
+
+
+*shadowing ??
+
+
+				p1
+				/\
+			   /  \
+			  /    \
+			c1      c2
+			
+primitve data type >>>>>> non-primitve type >>> rapper class 				(#preference)
+
+Converting primitive data type into primitive object is known as 'boxing' and reverse of boxing is 
+'unboxing'
+
+Primitive data type:			non-primitve/rapper class:
+byte							Byte
+short							Short
+int								Integer
+long							Long
+float							Float
+double							Double
+char 							Character
+boolean							Boolean
+
+
+method hiding ???
